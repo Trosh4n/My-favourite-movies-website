@@ -1,0 +1,84 @@
+#heading{
+    text-align: center;
+    font-family: serif;
+    font: georgia;
+    color: rgb(241, 241, 244);
+    word-spacing: 20px;
+    letter-spacing: 5px;
+}
+
+#div1{
+    background-color: rgb(62, 194, 238);
+    padding: 10px;
+    margin: 10px;
+    border-style: double;
+    border-radius: 20px;
+}
+
+#div2{
+    background-color: rgb(62, 194, 238);
+    padding: 10px;
+    margin: 10px;
+    border-style: double;
+    border-radius: 20px;
+}
+
+#div3{
+    background-color: rgb(62, 194, 238);
+    padding: 10px;
+    margin: 10px;
+    border-style: double;
+    border-radius: 20px;
+}
+
+#img1{
+    border: 5px solid black;
+}
+#img2{
+    border: 5px solid black;
+}   
+#img3{
+    border: 5px solid black;
+}
+
+#h31{
+    font-family: fantasy;
+    font: papyrus;
+    font-size: 30px;
+    color: darkblue;
+}
+
+#h32{
+    font-family: fantasy;
+    font: papyrus;
+    font-size: 30px;
+    color: darkblue;
+}
+
+#h33{
+    font-family: fantasy;
+    font: papyrus;
+    font-size: 30px;
+    color: darkblue;
+}
+
+#p1{
+    font-family: sans-serif;
+    font: verdana;
+    font-size: 18px;
+    color: black;
+}
+
+#p2{
+    font-family: sans-serif;
+    font: verdana;
+    font-size: 18px;
+    color: black;
+}
+
+#p3{
+    font-family: sans-serif;
+    font: verdana;
+    font-size: 18px;
+    color: black;
+}
